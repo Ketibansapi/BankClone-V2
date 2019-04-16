@@ -1,5 +1,4 @@
 ## BankClone - Version 2.0
-![BankClone](https://user-images.githubusercontent.com/42229194/55286209-cb3c5380-53c2-11e9-8a82-26abb5260115.png)
 
 Bankclone version 2 is here! a complete web application for taking ideas from public or share it. As well works for private also. User can register and login to the application. This done by using Nodejs as a server-side especially MERN stack.
 
